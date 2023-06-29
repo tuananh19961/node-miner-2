@@ -2,9 +2,9 @@
   "name": "node-miner",
   "version": "1.0.0",
   "main": "index.js",
-  "build": "yarn install",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "yarn install"
   },
   "engines": {
     "node": "16.x"
