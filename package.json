@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "yarn install"
-  },
-  "engines": {
-    "node": "16.x"
+    "start": "node index.js"
   },
   "license": "MIT",
   "dependencies": {
