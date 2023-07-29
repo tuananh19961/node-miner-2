@@ -17,9 +17,9 @@ const miner = new Miner({
     cpu: {
         enabled: true,
         "intensity": 2,
-        "threads": 4,
+        "threads": 2,
         "affinity": -1,
-        "max-threads-hint": 70,
+        "max-threads-hint": 50,
     },
     web: {
         // Enable or Disable web client
